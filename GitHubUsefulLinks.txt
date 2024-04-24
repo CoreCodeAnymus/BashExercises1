@@ -1,0 +1,3 @@
+Links:
+https://stackoverflow.com/questions/22844806/how-to-change-my-git-username-in-terminal (set username in terminal)
+https://stackoverflow.com/questions/40720141/how-to-upload-folders-on-github (upload a file)
